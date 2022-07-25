@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 500143952,
+      "name": "dio-desafio-github-primeiro-repositorio",
+      "owner": {
+        "login": "TalesLoran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96196094?v=4"
+      },
+      "html_url": "https://github.com/TalesLoran",
+      "description": "Desafio de projeto sobre Git/GitHub",
+      "stargazers_count": 0,
+      "language": null
+    },
+    {
+      "id": 511458457,
+      "name": "IMC_Project",
+      "owner": {
+        "login": "TalesLoran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96196094?v=4"
+      },
+      "html_url": "https://github.com/TalesLoran",
+      "description": "Calculadora IMC.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 500116940,
+      "name": "livro-receitas",
+      "owner": {
+        "login": "TalesLoran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96196094?v=4"
+      },
+      "html_url": "https://github.com/TalesLoran",
+      "description": "Meu livro de receitas",
+      "stargazers_count": 0,
+      "language": null
+    },
+    {
+      "id": 504273047,
+      "name": "matches-simulator-api",
+      "owner": {
+        "login": "TalesLoran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96196094?v=4"
+      },
+      "html_url": "https://github.com/TalesLoran/matches-simulator-api",
+      "description": "Repositório que simula uma API REST para obtenção de partidas. =)",
+      "stargazers_count": 0,
+      "language": null
+    },
+    {
+      "id": 503271459,
+      "name": "matches-simulator-app",
+      "owner": {
+        "login": "TalesLoran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96196094?v=4"
+      },
+      "html_url": "https://github.com/TalesLoran/matches-simulator-app",
+      "description": "App Android Nativo de Simulação de Partidas",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 513972882,
+      "name": "PlanetsCard",
+      "owner": {
+        "login": "TalesLoran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96196094?v=4"
+      },
+      "html_url": "https://github.com/TalesLoran/PlanetsCard",
+      "description": "App Android nativo para a criação de cartões com dados dos planetas(auxília para memorizar as informações).",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 500156842,
+      "name": "rafaballerini",
+      "owner": {
+        "login": "TalesLoran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96196094?v=4"
+      },
+      "html_url": "https://github.com/TalesLoran/rafaballerini",
+      "description": null,
+      "stargazers_count": 0,
+      "language": null
+    },
+    {
+      "id": 506572736,
+      "name": "soccer-news-api",
+      "owner": {
+        "login": "TalesLoran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96196094?v=4"
+      },
+      "html_url": "https://github.com/TalesLoran/soccer-news-api",
+      "description": "API(provida via GitHub Page) do App \"Soccer News DIO\"",
+      "stargazers_count": 0,
+      "language": null
+    },
+    {
+      "id": 506558004,
+      "name": "Soccer-News-DIO",
+      "owner": {
+        "login": "TalesLoran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96196094?v=4"
+      },
+      "html_url": "https://github.com/TalesLoran/Soccer-News-DIO",
+      "description": "App de Notícias Sobre Futebol Feminino",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 500153218,
+      "name": "TalesLoran",
+      "owner": {
+        "login": "TalesLoran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96196094?v=4"
+      },
+      "html_url": "https://github.com/TalesLoran/TalesLoran",
+      "description": null,
+      "stargazers_count": 0,
+      "language": null
+    }
+  ]
+}
